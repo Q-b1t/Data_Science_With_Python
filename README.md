@@ -1,0 +1,2 @@
+# Data Science with python
+Originally this was to store the assignments of a Coursera Specialziation on Data Science with Python, but now I use it to store a lot of self made resources for python data analysis for future reference.
